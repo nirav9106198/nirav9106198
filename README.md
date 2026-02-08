@@ -5,11 +5,13 @@
 ###
 
 <div align="center">
+  <a href = "https://www.linkedin.com/in/nirav-kotadiya-3aaa00342/">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
-  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo" />
-</div>
+  </a>
+  <a href = "https://github.com/nirav9106198">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo" />
+  </a>
+  </div>
 
 ###
 
@@ -22,10 +24,13 @@
 ###
 
 <p align="left">
-  I'm <strong>Alex Johnson</strong> from <strong>San Francisco, CA</strong>. A passionate full-stack developer who loves building innovative web applications and automating workflows.<br><br>
-  - 📚 I'm currently learning Java and diving deep into advanced JavaScript frameworks.<br>
-  - ⚡ In my free time, I enjoy learning n8n Automation, contributing to open-source projects, and exploring new tech trends.<br>
-  - 🌟 Fun fact: I once built a robot that brews coffee using IoT sensors!<br>
+ <p>
+  I'm a passionate <strong>Python full-stack developer</strong> specializing in 
+  <strong>Django</strong>, dedicated to building innovative web applications 
+  and automating workflows.
+</p>
+  - 📚 I'm currently learning Java and n8n automaton <br>
+  - ⚡ In my free time, I enjoy learning new ai tools, contributing to open-source projects, and exploring new tech trends.<br>
   - 💬 Ask me about web development, automation, or anything tech-related.
 </p>
 
