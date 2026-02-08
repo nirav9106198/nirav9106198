@@ -72,8 +72,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sublime/sublime-original.svg" height="40" alt="sublime logo" />
 </div>
 
 ###
@@ -83,7 +81,36 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+
+  <div align="center">
+  <br />
+  
+  <h1>🚀 Passionate Python Full-Stack Developer</h1>
+  <a href = "https://docs.python.org/3/">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+  
+  <a href = "https://docs.djangoproject.com/en/6.0/">
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  </a> 
+    
+  <a href = "https://docs.n8n.io/">
+    <img src="https://img.shields.io/badge/n8n-FF6D5B?style=for-the-badge&logo=n8n&logoColor=white" />
+  </a>
+
+  <a href = "https://docs.automationanywhere.com/">
+    <img src="https://img.shields.io/badge/Automation-7B61FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  </a>
+
+  <br /><br />
+
+  <p align="center">
+    <strong>Specializing in Django, dedicated to building innovative web applications and automating workflows.</strong>
+  </p>
+
+  <hr />
+</div>
+
   <img src="https://streak-stats.demolab.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
 </div>
 
